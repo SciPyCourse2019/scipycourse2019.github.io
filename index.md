@@ -4,7 +4,7 @@ layout: index
 #tagline: page tagline
 ---
 
-**12 classes on Tuesdays, April XX to July XX~~, 2019<br>
+**12 classes on Tuesdays, April XX to July XX, 2019<br>
 **LMU Biozentrum, Room D00.013**<br>
 **13-15:30, 3 ECTS total**
 
@@ -26,8 +26,7 @@ and code version control with Git will also be covered. Students are expected to
 own laptop. A minimal level of attendance (9/12 classes) and participation is required, and
 minimal homework exercises will be assigned.
 
-This course corresponds to course no. 19343 in the official [course
-listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=670358&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).
+This course corresponds to course no. XXXXX in the official [course listing]().
 
 # Class outline
 
@@ -82,7 +81,7 @@ These are all free, and require no signup or login:
 ### Specific libraries
 
 * Numpy is probably the most important data analysis library for Python:
-  <https://docs.scipy.org/doc/numpy-dev/user/quickstart.html>
+  <https://docs.scipy.org/doc/numpy/user/quickstart.html>
 
 * SciPy is another important library:
   <https://docs.scipy.org/doc/scipy/reference/tutorial>
