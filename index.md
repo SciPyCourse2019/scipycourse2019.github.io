@@ -4,7 +4,7 @@ layout: index
 #tagline: page tagline
 ---
 
-**12 classes on Tuesdays, April 30 to July 16, 2019<br>
+**12 classes on Tuesdays, April 30 to July 16, 2019**<br>
 **LMU Biozentrum, Room D00.013**<br>
 **13-15:30, 3 ECTS total**
 
