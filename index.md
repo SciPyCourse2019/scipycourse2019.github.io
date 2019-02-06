@@ -26,7 +26,7 @@ and code version control with Git will also be covered. Students are expected to
 own laptop. A minimal level of attendance (9/12 classes) and participation is required, and
 minimal homework exercises will be assigned.
 
-This course corresponds to course no. 19322 in the official [course
+This is course no. 19322 in the official [course
 listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=725749&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).
 
 # Class outline
