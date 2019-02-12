@@ -4,7 +4,7 @@
 name: SciPyCourse2019
 
 # Site tagline (displayed in the header), access with {{ site.tagline }}:
-tagline: Introduction to Scientific Analysis in Python, LMU, 2019
+tagline: Introduction to Scientific Programming in Python, LMU, 2019
 
 # Path to GitHub respository, appended to https://github.com/, access with {{ site.repo }}:
 repo: SciPyCourse2019
